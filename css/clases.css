@@ -1,0 +1,191 @@
+
+
+nav li{
+	position: relative;
+	display: inline-block;
+	top: 20px;
+	left: 130px;
+	padding-left: 80px;
+	margin-right: 0px; 
+}
+
+a:hover{
+	background-color: #D5D5D5;
+	color: white; 
+}
+
+.background-gris{
+	width: 1600px;
+	height: 1100px;
+	margin-top: 3%;
+}
+
+.titulo-clase{
+	font-size: 20px;
+	padding-left: 33%;
+}
+
+.clases{
+	position: relative;
+	display: inline-block;
+	width: 350px;
+	height: 440px;
+	margin-top: 5%;
+	margin-left: 56%;
+}
+
+.mg-instructor{
+	margin-left: -165px
+}
+
+.titulo-class{
+	font-size: 15px;
+	padding-top: 5%;
+	padding-left: 20%;
+}
+
+.texto-clase{
+	padding-top: 15%;
+}
+
+.comentario{
+	position: absolute;
+	padding-top: 15%;
+	z-index: 1;
+	right: 39.5%;
+	text-align: center;
+}
+
+.comentario-2{
+	position: absolute;
+	padding-top: 15%;
+	z-index: 1;
+	left: 14.5%;
+	text-align: center;
+}
+
+.comentario-3{
+	position: absolute;
+	padding-top: 15%;
+	z-index: 1;
+	left: 70.7%;
+	text-align: center;
+}
+
+.back-estilos{
+	width: 300px;
+	height: 120px;
+	position: absolute;
+	background: #1B1B1B;
+	opacity: 0.8;
+}
+
+.back-caja{
+	bottom: 18%;
+	left: 11%;
+}
+
+.back-caja-2{
+	bottom: 18%;
+	left: 39.6%;
+}
+
+.back-caja-3{
+	bottom: 18%;
+	left: 68.3%;
+}
+
+.back-caja-4{
+	top: 135%;
+	right: 30%;
+}
+
+.titulo-contacto{
+	font-size: 25px;
+	font-weight: bold;
+	padding-left: 5%;
+}
+
+.zapatillas{
+	margin-top: -35%;
+}
+
+/*FORMULARIO*/
+
+.formulario{
+	border:1px;
+	margin: auto;
+	width: 1180px;
+	padding: 20px;
+}
+
+.contact-form ul{
+	list-style: none;
+	width: 1180px;
+	margin: 0;
+	padding: 0;
+}
+
+.contact-form li{
+	padding: 5px;
+	border-bottom: 1px;
+	position: relative;
+}
+
+input{
+	width: 469px; 
+   height: 35px;
+   font-size: 15px;
+   padding-left: 50px;
+}
+
+textarea{
+	font-size: 15px;
+	padding-left: 50px;
+	padding-top: 10px;
+}
+
+.name{
+	position: relative;
+	background-image: url(../img/icon_name.png);
+	background-repeat: no-repeat;
+	background-size: 5%;
+}
+
+.email{
+	position: relative;
+	background-image: url(../img/icon_mail.png);
+	background-repeat: no-repeat;
+	background-size: 5%;
+}
+
+.icon{
+	position: relative;
+	background-image: url(../img/icon_msn.png);
+	background-repeat: no-repeat;
+	background-size: 5%;
+}
+
+.submit{
+	background: #192951;
+	width: 470px;
+	height: 70px;
+	border: none;
+	margin-left: 5px;
+	border-radius: 5px;
+}
+
+.enviar{
+	font-size: 20px;
+	color: white;
+}
+
+.blue-background{
+	height:60px;
+	margin-top: 5%;
+}
+
+.der-autor{
+	padding-left: 8%;
+	padding-top: 5%; 
+}
